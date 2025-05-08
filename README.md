@@ -43,8 +43,9 @@ About me
 ###
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Khanbolot/Khanbolot/output/github-snake.svg" alt="snake animation" />
 </p>
+
 
 ###
 
